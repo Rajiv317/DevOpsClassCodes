@@ -1,0 +1,2 @@
+We have created github hook
+which should trigger the jenkins jobs upon committing this new file to master branch
